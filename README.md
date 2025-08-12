@@ -1,15 +1,15 @@
-# 🏋️‍♂️ Modelo Preditivo de Churn para Academia
+#  Modelo Preditivo de Churn para Academia
 > Análise e previsão de cancelamento de clientes em academia utilizando Machine Learning
 
 ## 📋 Sobre o Projeto
 Este projeto desenvolve um modelo preditivo para identificar potenciais cancelamentos de clientes em uma academia, utilizando técnicas avançadas de machine learning. O modelo alcançou uma precisão superior a 76% após refinamentos.
 
-### 🎯 Objetivos
+### Objetivos
 - Identificar padrões de comportamento que levam ao cancelamento
 - Prever possíveis cancelamentos com alta precisão
 - Fornecer insights acionáveis para retenção de clientes
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.8+
 - Pandas
@@ -27,7 +27,7 @@ O dataset contém informações sobre:
 - Informações contratuais
 - Status de cancelamento
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 ```bash
@@ -104,5 +104,6 @@ O projeto inclui visualizações detalhadas de:
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
+
 
 
